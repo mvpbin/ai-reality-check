@@ -1,4 +1,4 @@
 interface:
   display_name: "AI 队友审查"
-  short_description: "跨领域 AI 建议审查、风险判断与大白话解释"
-  default_prompt: "使用 $ai-reality-check 帮我用中文审查这个 AI 建议，先用大白话解释，再告诉我能不能行动。"
+  short_description: "跨领域审查 AI 建议、证据可信度、行动风险与最小验证路径"
+  default_prompt: "使用 $ai-reality-check 审查下面的 AI 建议，区分证据与假设，并告诉我能否行动及最小验证步骤。"
